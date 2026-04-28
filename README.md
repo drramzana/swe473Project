@@ -70,4 +70,4 @@ Each team must:
 
 ---
 
-*Base system adapted from original work by sahilkhan2013. Course project - Dr. Alramzana Navaz, CSITE Department.*
+*Base system adapted from original work by sahilkhan2013. Course project - Dr. Alramzana Navaz, CSIT Department.*
